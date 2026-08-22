@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "job_id": "f5b3c6ae-0b27-4b7f-918a-cb391bb7eae6",
+  "owner_user_id": "4f6d6076-9311-4368-b633-60f0aecd4888",
+  "author_name": "LYPREP",
+  "avatar_seed": "591b0e588f2c",
+  "status": "succeeded",
+  "template_name": "分轨模板_子涵_26.8.21(1)",
+  "track_count": 83,
+  "source_sha256": "016479738d4b680bd0671e91973aced039159ff1b627040c4a931538951889a7",
+  "package_filename": "分轨模板_子涵_26.8.21(1).lytemplate",
+  "json_filename": "分轨模板_子涵_26.8.21(1).json",
+  "warnings": [],
+  "manifest": {
+    "converter_version": "0.1.0",
+    "created_at": "2026-08-22T14:02:21.257826Z",
+    "job_id": "f5b3c6ae-0b27-4b7f-918a-cb391bb7eae6",
+    "owner_user_id": "4f6d6076-9311-4368-b633-60f0aecd4888",
+    "package_type": "com.lystudio.lyprep.template",
+    "schema_version": 1,
+    "source": {
+      "byte_count": 816391,
+      "filename": "source.ptxt",
+      "sha256": "016479738d4b680bd0671e91973aced039159ff1b627040c4a931538951889a7"
+    },
+    "template": {
+      "file": "template.json",
+      "id": "D51F2AC8-E68E-5DD8-8DAF-EA2B95A6DCE9",
+      "name": "分轨模板_子涵_26.8.21(1)",
+      "track_count": 83
+    },
+    "warnings": []
+  }
+}
