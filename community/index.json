@@ -1,18 +1,5 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-22T17:24:05.167Z",
-  "templates": [
-    {
-      "job_id": "eebf305c-6035-4fbb-b9cd-819b4a31b984",
-      "template_id": "4F2A0784-A6BA-5E58-B89B-A2C977232D8C",
-      "name": "Lsady123A",
-      "track_count": 51,
-      "published_at": "2026-08-22T02:25:29.622545Z",
-      "warnings_count": 0,
-      "download_url": "https://raw.githubusercontent.com/Lsady/lyprep-template-community/main/results/eebf305c-6035-4fbb-b9cd-819b4a31b984/template.lytemplate",
-      "lytemplate_filename": "Lsady123A.lytemplate",
-      "ptxt_filename": "Lsady123A.ptxt",
-      "source_ptxt_url": "https://raw.githubusercontent.com/Lsady/lyprep-template-community/main/submissions/eebf305c-6035-4fbb-b9cd-819b4a31b984/source.ptxt"
-    }
-  ]
+  "updated_at": "2026-08-22T17:24:12.668Z",
+  "templates": []
 }
