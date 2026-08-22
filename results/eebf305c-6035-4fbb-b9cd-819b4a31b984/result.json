@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "job_id": "eebf305c-6035-4fbb-b9cd-819b4a31b984",
+  "owner_user_id": "4f6d6076-9311-4368-b633-60f0aecd4888",
+  "status": "succeeded",
+  "template_name": "Lsady123A",
+  "track_count": 51,
+  "source_sha256": "200da2e555346600cae0c12d127653ffc90003f1889fdf996bae8ccf58a96214",
+  "package_filename": "Lsady123A.lytemplate",
+  "json_filename": "Lsady123A.json",
+  "warnings": [],
+  "manifest": {
+    "converter_version": "0.1.0",
+    "created_at": "2026-08-22T00:12:24.274434Z",
+    "job_id": "eebf305c-6035-4fbb-b9cd-819b4a31b984",
+    "owner_user_id": "4f6d6076-9311-4368-b633-60f0aecd4888",
+    "package_type": "com.lystudio.lyprep.template",
+    "schema_version": 1,
+    "source": {
+      "byte_count": 149434,
+      "filename": "source.ptxt",
+      "sha256": "200da2e555346600cae0c12d127653ffc90003f1889fdf996bae8ccf58a96214"
+    },
+    "template": {
+      "file": "template.json",
+      "id": "4F2A0784-A6BA-5E58-B89B-A2C977232D8C",
+      "name": "Lsady123A",
+      "track_count": 51
+    },
+    "warnings": []
+  }
+}
