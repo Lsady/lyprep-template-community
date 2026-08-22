@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-08-22T14:03:12.364Z",
+  "updated_at": "2026-08-22T16:18:55Z",
   "templates": [
     {
       "job_id": "d3aa7e88-02af-4d2a-9f7c-79e682a48d65",
@@ -12,7 +12,9 @@
       "published_at": "2026-08-22T14:03:12.364Z",
       "warnings_count": 0,
       "download_url": "https://raw.githubusercontent.com/Lsady/lyprep-template-community/main/community/templates/d3aa7e88-02af-4d2a-9f7c-79e682a48d65/template.lytemplate",
-      "source_ptxt_url": "https://raw.githubusercontent.com/Lsady/lyprep-template-community/main/community/templates/d3aa7e88-02af-4d2a-9f7c-79e682a48d65/source.ptxt"
+      "source_ptxt_url": "https://raw.githubusercontent.com/Lsady/lyprep-template-community/main/community/templates/d3aa7e88-02af-4d2a-9f7c-79e682a48d65/source.ptxt",
+      "lytemplate_filename": "分轨模板_子涵_26.8.21(1).lytemplate",
+      "ptxt_filename": "分轨模板_子涵_26.8.21(1).ptxt"
     },
     {
       "job_id": "eebf305c-6035-4fbb-b9cd-819b4a31b984",
@@ -21,7 +23,10 @@
       "track_count": 51,
       "published_at": "2026-08-22T02:25:29.622545Z",
       "warnings_count": 0,
-      "download_url": "https://raw.githubusercontent.com/Lsady/lyprep-template-community/main/results/eebf305c-6035-4fbb-b9cd-819b4a31b984/template.lytemplate"
+      "download_url": "https://raw.githubusercontent.com/Lsady/lyprep-template-community/main/results/eebf305c-6035-4fbb-b9cd-819b4a31b984/template.lytemplate",
+      "lytemplate_filename": "Lsady123A.lytemplate",
+      "ptxt_filename": "Lsady123A.ptxt",
+      "source_ptxt_url": "https://raw.githubusercontent.com/Lsady/lyprep-template-community/main/submissions/eebf305c-6035-4fbb-b9cd-819b4a31b984/source.ptxt"
     }
   ]
 }
