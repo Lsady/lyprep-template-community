@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "job_id": "a856ffad-9a5a-41b9-ac6d-e4a1e74ff4f0",
+  "owner_user_id": "4f6d6076-9311-4368-b633-60f0aecd4888",
+  "author_name": "LYPREP",
+  "avatar_seed": "591b0e588f2c",
+  "status": "succeeded",
+  "template_name": "LY-Prep演示模版",
+  "track_count": 49,
+  "source_sha256": "6062d5b28816fe2f3806ec8ff76523dbdcf7c98f50a25d4dac6a415044172fcb",
+  "package_filename": "LY-Prep演示模版.lytemplate",
+  "json_filename": "LY-Prep演示模版.json",
+  "warnings": [],
+  "manifest": {
+    "converter_version": "0.1.0",
+    "created_at": "2026-08-27T09:37:40.895887Z",
+    "job_id": "a856ffad-9a5a-41b9-ac6d-e4a1e74ff4f0",
+    "owner_user_id": "4f6d6076-9311-4368-b633-60f0aecd4888",
+    "package_type": "com.lystudio.lyprep.template",
+    "schema_version": 1,
+    "source": {
+      "byte_count": 319973,
+      "filename": "source.ptxt",
+      "sha256": "6062d5b28816fe2f3806ec8ff76523dbdcf7c98f50a25d4dac6a415044172fcb"
+    },
+    "template": {
+      "file": "template.json",
+      "id": "81E1EE91-0878-5E6F-8DAA-88302445BD5A",
+      "name": "LY-Prep演示模版",
+      "track_count": 49
+    },
+    "warnings": []
+  }
+}
