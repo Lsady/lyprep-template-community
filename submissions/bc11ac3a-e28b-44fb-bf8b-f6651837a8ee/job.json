@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "job_id": "bc11ac3a-e28b-44fb-bf8b-f6651837a8ee",
+  "owner_user_id": "4f6d6076-9311-4368-b633-60f0aecd4888",
+  "template_name": "LY-Prep演示模版",
+  "source_filename": "source.ptxt",
+  "source_sha256": "6062d5b28816fe2f3806ec8ff76523dbdcf7c98f50a25d4dac6a415044172fcb",
+  "author_name": "LYPREP",
+  "avatar_seed": "591b0e588f2c"
+}
