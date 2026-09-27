@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "job_id": "2731d50e-9e45-47f8-bc16-5eea154ac4bb",
+  "owner_user_id": null,
+  "author_name": "访客",
+  "avatar_seed": "2731d50e9e45",
+  "status": "succeeded",
+  "template_name": "PTXT Converter 线上验收测试",
+  "track_count": 51,
+  "source_sha256": "200da2e555346600cae0c12d127653ffc90003f1889fdf996bae8ccf58a96214",
+  "package_filename": "PTXT Converter 线上验收测试.lytemplate",
+  "json_filename": "PTXT Converter 线上验收测试.json",
+  "warnings": [],
+  "manifest": {
+    "converter_version": "0.1.0",
+    "created_at": "2026-09-27T15:02:15.371222Z",
+    "job_id": "2731d50e-9e45-47f8-bc16-5eea154ac4bb",
+    "owner_user_id": null,
+    "package_type": "com.lystudio.lyprep.template",
+    "schema_version": 1,
+    "source": {
+      "byte_count": 149434,
+      "filename": "source.ptxt",
+      "sha256": "200da2e555346600cae0c12d127653ffc90003f1889fdf996bae8ccf58a96214"
+    },
+    "template": {
+      "file": "template.json",
+      "id": "4F2A0784-A6BA-5E58-B89B-A2C977232D8C",
+      "name": "PTXT Converter 线上验收测试",
+      "track_count": 51
+    },
+    "warnings": []
+  }
+}
